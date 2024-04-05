@@ -1,0 +1,76 @@
+{
+    "error": [],
+    "result": {
+        "count": 4,
+        "trades": {
+            "TTTZW7-7IT3A-RPWMX3": {
+                "ordertxid": "OB6K5J-5GSFW-POPO3O",
+                "postxid": "TKH2SE-M7IF5-CFI7LT",
+                "pair": "XXBTZGBP",
+                "time": 1709855519.91286,
+                "type": "buy",
+                "ordertype": "limit",
+                "price": "52280.00000",
+                "cost": "2071.56625",
+                "fee": "3.31451",
+                "vol": "0.03962445",
+                "margin": "0.00000",
+                "leverage": "0",
+                "misc": "",
+                "trade_id": 3609102,
+                "maker": true
+            },
+            "T6ERQU-PNHJR-6BNRDH": {
+                "ordertxid": "OB6K5J-5GSFW-POPO3O",
+                "postxid": "TKH2SE-M7IF5-CFI7LT",
+                "pair": "XXBTZGBP",
+                "time": 1709855449.4747307,
+                "type": "buy",
+                "ordertype": "limit",
+                "price": "52280.00000",
+                "cost": "589.04085",
+                "fee": "0.94247",
+                "vol": "0.01126704",
+                "margin": "0.00000",
+                "leverage": "0",
+                "misc": "",
+                "trade_id": 3609100,
+                "maker": true
+            },
+            "TH2B7I-7R4CN-G253PA": {
+                "ordertxid": "OB6K5J-5GSFW-POPO3O",
+                "postxid": "TKH2SE-M7IF5-CFI7LT",
+                "pair": "XXBTZGBP",
+                "time": 1709855447.071621,
+                "type": "buy",
+                "ordertype": "limit",
+                "price": "52280.00000",
+                "cost": "339.39287",
+                "fee": "0.54303",
+                "vol": "0.00649183",
+                "margin": "0.00000",
+                "leverage": "0",
+                "misc": "",
+                "trade_id": 3609099,
+                "maker": true
+            },
+            "TGDLOC-NOSLQ-B4FTGY": {
+                "ordertxid": "OWVFIR-RAKEK-QDDNEV",
+                "postxid": "TKH2SE-M7IF5-CFI7LT",
+                "pair": "XXBTZGBP",
+                "time": 1709661317.1342742,
+                "type": "buy",
+                "ordertype": "limit",
+                "price": "51245.50000",
+                "cost": "999.99956",
+                "fee": "1.60000",
+                "vol": "0.01951390",
+                "margin": "0.00000",
+                "leverage": "0",
+                "misc": "",
+                "trade_id": 3596465,
+                "maker": true
+            }
+        }
+    }
+}
